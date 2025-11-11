@@ -96,7 +96,7 @@ BEGIN
 		Codigo				INT PRIMARY KEY IDENTITY,
 		CodigoAcademia		INT,
 		Nome				VARCHAR(255) NOT NULL,
-		Endereço			VARCHAR (255), 
+		Endereco			VARCHAR (255), 
 		Cidade				VARCHAR (255),
 		UF					CHAR (2),
 		CEP					VARCHAR(7) NOT NULL,
