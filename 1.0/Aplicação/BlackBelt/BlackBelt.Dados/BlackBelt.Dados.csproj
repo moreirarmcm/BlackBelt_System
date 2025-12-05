@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BlackBelt.Entidades\BlackBelt.Entidades.csproj" />
+    <ProjectReference Include="..\BlackBelt.Negocio\BlackBelt.Negocio.csproj" />
   </ItemGroup>
 
 </Project>

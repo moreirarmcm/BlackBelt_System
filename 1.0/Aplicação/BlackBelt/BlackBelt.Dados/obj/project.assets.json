@@ -75,6 +75,19 @@
         "runtime": {
           "bin/placeholder/BlackBelt.Entidades.dll": {}
         }
+      },
+      "BlackBelt.Negocio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BlackBelt.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlackBelt.Negocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlackBelt.Negocio.dll": {}
+        }
       }
     }
   },
@@ -179,11 +192,17 @@
       "type": "project",
       "path": "../BlackBelt.Entidades/BlackBelt.Entidades.csproj",
       "msbuildProject": "../BlackBelt.Entidades/BlackBelt.Entidades.csproj"
+    },
+    "BlackBelt.Negocio/1.0.0": {
+      "type": "project",
+      "path": "../BlackBelt.Negocio/BlackBelt.Negocio.csproj",
+      "msbuildProject": "../BlackBelt.Negocio/BlackBelt.Negocio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "BlackBelt.Entidades >= 1.0.0",
+      "BlackBelt.Negocio >= 1.0.0",
       "System.Data.SqlClient >= 4.9.0"
     ]
   },
@@ -221,6 +240,9 @@
           "projectReferences": {
             "C:\\Users\\morei\\source\\repos\\moreirarmcm\\BlackBelt_System\\1.0\\Aplicação\\BlackBelt\\BlackBelt.Entidades\\BlackBelt.Entidades.csproj": {
               "projectPath": "C:\\Users\\morei\\source\\repos\\moreirarmcm\\BlackBelt_System\\1.0\\Aplicação\\BlackBelt\\BlackBelt.Entidades\\BlackBelt.Entidades.csproj"
+            },
+            "C:\\Users\\morei\\source\\repos\\moreirarmcm\\BlackBelt_System\\1.0\\Aplicação\\BlackBelt\\BlackBelt.Negocio\\BlackBelt.Negocio.csproj": {
+              "projectPath": "C:\\Users\\morei\\source\\repos\\moreirarmcm\\BlackBelt_System\\1.0\\Aplicação\\BlackBelt\\BlackBelt.Negocio\\BlackBelt.Negocio.csproj"
             }
           }
         }
