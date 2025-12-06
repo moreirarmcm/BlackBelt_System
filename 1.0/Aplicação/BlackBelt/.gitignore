@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+out/
+
+# Dependências locais
+packages/
+
+# Configurações de ambiente
+appsettings.*.json
+
+# Logs e cache
+*.log
+*.cache
+*.vsidx
