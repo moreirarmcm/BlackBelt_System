@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlackBelt.Dados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c7756f18036b26d468883c5e8c26fed3366de9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01a7b51f8ecb8c180af111c6716bff7b07203acb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlackBelt.Dados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlackBelt.Dados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

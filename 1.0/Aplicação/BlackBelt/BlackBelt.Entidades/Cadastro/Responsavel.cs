@@ -9,7 +9,7 @@ namespace BlackBelt.Entidades.Cadastro
     public class Responsavel
     {
         public int Codigo { get; set; }
-        public string Nome { get; set; };
+        public string Nome { get; set; }
         public string CPF { get; set; }
         public DateTime Nascimento { get; set; }
     }
