@@ -1,0 +1,12 @@
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Entidades\bin\Debug\net8.0\BlackBelt.Entidades.deps.json
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Entidades\bin\Debug\net8.0\BlackBelt.Entidades.dll
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Entidades\bin\Debug\net8.0\BlackBelt.Entidades.pdb
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Entidades\obj\Debug\net8.0\BlackBelt.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Entidades\obj\Debug\net8.0\BlackBelt.Entidades.AssemblyInfoInputs.cache
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Entidades\obj\Debug\net8.0\BlackBelt.Entidades.AssemblyInfo.cs
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Entidades\obj\Debug\net8.0\BlackBelt.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Entidades\obj\Debug\net8.0\BlackBelt.Entidades.sourcelink.json
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Entidades\obj\Debug\net8.0\BlackBelt.Entidades.dll
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Entidades\obj\Debug\net8.0\refint\BlackBelt.Entidades.dll
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Entidades\obj\Debug\net8.0\BlackBelt.Entidades.pdb
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Entidades\obj\Debug\net8.0\ref\BlackBelt.Entidades.dll

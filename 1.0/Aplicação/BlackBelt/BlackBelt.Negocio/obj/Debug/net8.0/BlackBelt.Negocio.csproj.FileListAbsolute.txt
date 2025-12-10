@@ -1,0 +1,16 @@
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\bin\Debug\net8.0\BlackBelt.Negocio.deps.json
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\bin\Debug\net8.0\BlackBelt.Negocio.dll
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\bin\Debug\net8.0\BlackBelt.Negocio.pdb
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\bin\Debug\net8.0\BlackBelt.Entidades.dll
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\bin\Debug\net8.0\BlackBelt.Entidades.pdb
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\obj\Debug\net8.0\BlackBelt.Negocio.csproj.AssemblyReference.cache
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\obj\Debug\net8.0\BlackBelt.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\obj\Debug\net8.0\BlackBelt.Negocio.AssemblyInfoInputs.cache
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\obj\Debug\net8.0\BlackBelt.Negocio.AssemblyInfo.cs
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\obj\Debug\net8.0\BlackBelt.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\obj\Debug\net8.0\BlackBelt.Negocio.sourcelink.json
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\obj\Debug\net8.0\BlackBel.AB974FBB.Up2Date
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\obj\Debug\net8.0\BlackBelt.Negocio.dll
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\obj\Debug\net8.0\refint\BlackBelt.Negocio.dll
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\obj\Debug\net8.0\BlackBelt.Negocio.pdb
+C:\Users\morei\source\repos\moreirarmcm\BlackBelt_System\1.0\Aplicação\BlackBelt\BlackBelt.Negocio\obj\Debug\net8.0\ref\BlackBelt.Negocio.dll

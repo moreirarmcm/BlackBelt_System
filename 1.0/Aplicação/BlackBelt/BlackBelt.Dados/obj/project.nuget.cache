@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "c017e29+Y7w=",
+  "dgSpecHash": "EYUc2u60HJ0=",
   "success": true,
   "projectFilePath": "C:\\Users\\morei\\source\\repos\\moreirarmcm\\BlackBelt_System\\1.0\\Aplicação\\BlackBelt\\BlackBelt.Dados\\BlackBelt.Dados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morei\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\morei\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
+    "C:\\Users\\morei\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\morei\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\morei\\.nuget\\packages\\microsoft.bcl.cryptography\\8.0.0\\microsoft.bcl.cryptography.8.0.0.nupkg.sha512",
     "C:\\Users\\morei\\.nuget\\packages\\microsoft.data.sqlclient\\6.1.3\\microsoft.data.sqlclient.6.1.3.nupkg.sha512",
