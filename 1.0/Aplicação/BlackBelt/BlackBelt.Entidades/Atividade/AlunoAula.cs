@@ -12,6 +12,7 @@ namespace BlackBelt.Entidades.Atividade
         public int CodigoAula { get; set; }
         public DateTime Agendamento { get; set; }
         public bool Presenca { get; set; }
+        public string Observacao { get; set; }
         public int Situacao { get; set; }
         public DateTime Criacao { get; set; }
     }
