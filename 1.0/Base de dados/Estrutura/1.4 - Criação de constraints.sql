@@ -1,7 +1,7 @@
 ﻿USE BlackBelt_Dev
 BEGIN TRY
 BEGIN TRAN
-DECLARE @ApenasTeste BIT = 1
+DECLARE @ApenasTeste BIT = 0
 
 --===================================================================
 --===================================================================

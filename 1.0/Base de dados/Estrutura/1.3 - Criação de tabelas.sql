@@ -29,12 +29,12 @@ END;
 IF NOT EXISTS (select * from INFORMATION_SCHEMA.TABLES where TABLE_SCHEMA = 'cadastro' and TABLE_NAME = 'Pessoa')
 BEGIN
 	CREATE TABLE cadastro.Pessoa (
-	    Codigo		INT IDENTITY PRIMARY KEY,
-		Nome		VARCHAR (255) NOT NULL,
-		CPF			VARCHAR(11) UNIQUE CHECK (CPF NOT LIKE '%[^0-9]%'),
-		Nascimento	DATE NOT NULL,
-		Sexo		CHAR (1),
-		PCD			BIT DEFAULT 0
+	    Codigo			INT IDENTITY PRIMARY KEY,
+		Nome			VARCHAR (255) NOT NULL,
+		CPF				VARCHAR(20) UNIQUE,
+		Nascimento		DATE NOT NULL,
+		Sexo			CHAR (1),
+		PCD				BIT DEFAULT 0
 	)
 	PRINT 'Tabela "cadastro.Pessoa" criada!'
 END;
@@ -46,7 +46,7 @@ BEGIN
 	    Codigo			INT IDENTITY PRIMARY KEY,
 		CodigoPessoa	INT NOT NULL,
 		Logradouro		VARCHAR (255) NOT NULL,
-		CEP				VARCHAR(8),
+		CEP				VARCHAR(20),
 		Cidade			VARCHAR (255),
 		UF				CHAR (2),
 		Email			VARCHAR(255),
@@ -59,10 +59,10 @@ END;
 IF NOT EXISTS (select * from INFORMATION_SCHEMA.TABLES where TABLE_SCHEMA = 'cadastro' and TABLE_NAME = 'Responsavel')
 BEGIN
 	CREATE TABLE cadastro.Responsavel (
-	    Codigo		INT IDENTITY PRIMARY KEY,
-		Nome		VARCHAR (255) NOT NULL,
-		CPF			VARCHAR(11) UNIQUE CHECK (CPF NOT LIKE '%[^0-9]%'),
-		Nascimento	DATE
+	    Codigo			INT IDENTITY PRIMARY KEY,
+		Nome			VARCHAR (255) NOT NULL,
+		CPF				VARCHAR(20) UNIQUE,
+		Nascimento		DATE NOT NULL
 	)
 	PRINT 'Tabela "cadastro.Responsavel" criada!'
 END;
@@ -99,7 +99,7 @@ BEGIN
 		Endereco			VARCHAR (255), 
 		Cidade				VARCHAR (255),
 		UF					CHAR (2),
-		CEP					VARCHAR(7) NOT NULL,
+		CEP					VARCHAR(20) NOT NULL,
 		Email				VARCHAR (255),
 		Telefone			VARCHAR (255),
 		CNPJ				VARCHAR(255),
@@ -115,7 +115,7 @@ BEGIN
     CREATE TABLE cadastro.Titulo (
         Codigo			INT IDENTITY PRIMARY KEY,
         CodigoAcademia	INT,
-        Nome			VARCHAR(100) NOT NULL,
+        Nome			VARCHAR(255) NOT NULL,
         Descricao		VARCHAR(255),
         Padrao			BIT NOT NULL DEFAULT 0,
         Ordem			INT,

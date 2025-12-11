@@ -1,21 +1,11 @@
+USE BlackBelt_Dev
+
 BEGIN TRY
 BEGIN TRAN
 DECLARE @ApenasTeste BIT = 0
 
 --===================================================================
 --===================================================================
-
-IF NOT EXISTS (select* from sys.databases where name = 'BlackBelt_Dev')
-BEGIN
-	CREATE DATABASE BlackBelt_Dev
-	PRINT 'Base "BlackBelt_Dev" Criada;'
-END;
-
-IF EXISTS (select* from sys.databases where name = 'BlackBelt_Dev')
-BEGIN
-	USE BlackBelt_Dev
-END;
-
 
 IF NOT EXISTS(SELECT 1 FROM sys.schemas WHERE name = 'cadastro')
 BEGIN
